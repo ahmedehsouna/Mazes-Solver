@@ -1,3 +1,5 @@
+# maze solver
+
 import random, time 
 import numpy as np
 from IPython.display import clear_output
